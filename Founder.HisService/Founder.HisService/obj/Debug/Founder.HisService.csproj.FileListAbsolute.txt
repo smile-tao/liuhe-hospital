@@ -1,0 +1,15 @@
+E:\WorkPlace\Source\六合\source\Founder.HisService\Founder.HisService\bin\Founder.HisService.dll.config
+E:\WorkPlace\Source\六合\source\Founder.HisService\Founder.HisService\bin\Founder.HisService.dll
+E:\WorkPlace\Source\六合\source\Founder.HisService\Founder.HisService\bin\Founder.HisService.pdb
+E:\WorkPlace\Source\六合\source\Founder.HisService\Founder.HisService\bin\log4net.dll
+E:\WorkPlace\Source\六合\source\Founder.HisService\Founder.HisService\bin\log4net.xml
+E:\WorkPlace\Source\六合\source\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.dll
+E:\WorkPlace\Source\六合\source\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.pdb
+E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\bin\Founder.HisService.dll.config
+E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\bin\Founder.HisService.dll
+E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\bin\Founder.HisService.pdb
+E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\bin\log4net.dll
+E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\bin\log4net.xml
+E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.csproj.CoreCompileInputs.cache
+E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.dll
+E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.pdb

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\Web\LH</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Founder.HisService.dll">
+      <publishTime>04/14/2017 22:48:07</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>04/12/2017 17:35:55</publishTime>
+    </File>
+    <File Include="Config/ConfigContext.xml">
+      <publishTime>04/13/2017 15:06:49</publishTime>
+    </File>
+    <File Include="Config/Log4net.xml">
+      <publishTime>04/11/2017 13:42:47</publishTime>
+    </File>
+    <File Include="FounderService.svc">
+      <publishTime>04/12/2017 17:59:39</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/12/2017 17:35:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/12/2017 17:09:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,31 @@
+[2017-04-12 10:42:54,940]userName[]password[]businessType[]requestData[]responseData[对于的业务代码[]不存在]
+
+[2017-04-12 10:43:43,586]userName[1]password[1]businessType[1]requestData[1]responseData[对于的业务代码[1]不存在]
+
+[2017-04-12 10:46:03,682]userName[]password[]businessType[PACS_CANCEL]requestData[]responseData[参数requestData:值不能为 null。
+参数名: s]
+
+[2017-04-12 10:46:16,460]userName[]password[]businessType[PACS_CANCEL]requestData[]responseData[参数requestData:缺少根元素。]
+
+[2017-04-12 10:48:56,242]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id></appoint_id><hosp_patient_id></hosp_patient_id><patient_type></patient_type><opera></opera><cancel_time></cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[申请单号不能为空!]
+
+[2017-04-12 10:49:20,658]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id>1</appoint_id><hosp_patient_id></hosp_patient_id><patient_type></patient_type><opera></opera><cancel_time></cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[病人唯一编号不能为空!]
+
+[2017-04-12 10:49:38,886]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id>1</appoint_id><hosp_patient_id>2</hosp_patient_id><patient_type></patient_type><opera></opera><cancel_time></cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[病人类型不能为空!]
+
+[2017-04-12 10:50:00,648]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id>1</appoint_id><hosp_patient_id>2</hosp_patient_id><patient_type>3</patient_type><opera></opera><cancel_time></cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[确认医生工号不能为空!]
+
+[2017-04-12 10:51:03,338]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id>1</appoint_id><hosp_patient_id>2</hosp_patient_id><patient_type>3</patient_type><opera>4</opera><cancel_time></cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[确认时间不能为空!]
+
+[2017-04-12 10:51:21,618]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id>1</appoint_id><hosp_patient_id>2</hosp_patient_id><patient_type>3</patient_type><opera>4</opera><cancel_time>5</cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[病人类型异常]
+
+[2017-04-12 10:51:36,122]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id>1</appoint_id><hosp_patient_id>2</hosp_patient_id><patient_type>2</patient_type><opera>4</opera><cancel_time>5</cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[未将对象引用设置到对象的实例。]
+
+[2017-04-12 10:51:41,705]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id>1</appoint_id><hosp_patient_id>2</hosp_patient_id><patient_type>2</patient_type><opera>4</opera><cancel_time>5</cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[未将对象引用设置到对象的实例。]
+
+[2017-04-12 10:52:48,019]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id>1</appoint_id><hosp_patient_id>2</hosp_patient_id><patient_type>2</patient_type><opera>4</opera><cancel_time>5</cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[未将对象引用设置到对象的实例。]
+
+[2017-04-12 10:56:11,110]userName[]password[]businessType[PACS_CANCEL]requestData[<root><appoint_id>1</appoint_id><hosp_patient_id>2</hosp_patient_id><patient_type>2</patient_type><opera>4</opera><cancel_time>5</cancel_time><cancel_win_no></cancel_win_no><exam_class></exam_class><exam_item></exam_item><exam_name></exam_name></root>]responseData[存储过程返回数据异常]
+
+[2017-04-12 17:08:05,752]userName[1]password[2]businessType[3]requestData[4]responseData[对于的业务代码[3]不存在]
+

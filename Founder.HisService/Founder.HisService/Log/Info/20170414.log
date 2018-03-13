@@ -1,0 +1,17 @@
+[2017-04-14 14:57:37,880]userName[1]password[1]businessType[a]requestData[<root><a>1</a><b>2</b></root>]responseData[找不到存储过程 'XD_GENERALL'。]
+
+[2017-04-14 14:59:04,434]userName[1]password[2]businessType[3]requestData[<root><a>1</a><b>2</b></root>]responseData[表达式的计算结果必须为节点集。]
+
+[2017-04-14 15:03:58,205]userName[1]password[2]businessType[3]requestData[<root><a>1</a><b>2</b></root>]responseData[找不到存储过程 'XD_GENERALL'。]
+
+[2017-04-14 15:04:14,976]userName[1]password[2]businessType[buss]requestData[<root><a>1</a><b>2</b></root>]responseData[找不到存储过程 'XD_GENERALL'。]
+
+[2017-04-14 15:05:48,643]userName[]password[]businessType[]requestData[]responseData[对于的业务代码[]不存在]
+
+[2017-04-14 15:06:01,046]userName[1]password[1]businessType[GENERAL]requestData[]responseData[参数requestData:值不能为 null。
+参数名: s]
+
+[2017-04-14 15:06:17,307]userName[1]password[1]businessType[GENERAL]requestData[<root></root>]responseData[找不到存储过程 'XD_GENERALL'。]
+
+[2017-04-14 15:06:23,479]userName[1]password[1]businessType[GENERAL]requestData[<root></root>]responseData[找不到存储过程 'XD_GENERALL'。]
+

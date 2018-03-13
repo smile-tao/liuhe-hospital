@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <!--数据库链接-->
+  <DataBaseConfig>Data Source=.;database=mz_test;User ID=sa;Password=system</DataBaseConfig>
+  <!--文本日志,小写true,false-->
+  <TextLog>true</TextLog>
+  <!--数据库日志,小写true,false-->
+  <DbLog>true</DbLog>
+  <!--获取明细时间限制-->
+  <DetailHours>10000</DetailHours>
+</config>

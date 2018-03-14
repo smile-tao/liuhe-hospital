@@ -517,7 +517,7 @@ namespace Founder.HisService
         {
             try
             {
-                string sql = "sp_lis_dictionary";
+                string sql = "RM_lis_dictionary";
                 SqlParameter[] sqlParameter = new SqlParameter[]
                 {
                     new SqlParameter("@code", SqlDbType.VarChar, 2) //字典类型                   
@@ -605,7 +605,7 @@ namespace Founder.HisService
         {
             try
             {
-                string sql = "sp_lis_getpatinfo";
+                string sql = "RM_lis_getpatinfo";
                 SqlParameter[] sqlParameter = new SqlParameter[]
                 {
                     new SqlParameter("@pattype", SqlDbType.VarChar, 2), //病人来源(1 门诊，2急诊，3 住院，4 体检)                
@@ -696,7 +696,7 @@ namespace Founder.HisService
         {
             try
             {
-                string sql = "sp_lisgetorders";
+                string sql = "RM_lis_getorders";
                 SqlParameter[] sqlParameter = new SqlParameter[]
                 {
                     new SqlParameter("@ward_sn", SqlDbType.VarChar, 7), //病区代码                
@@ -823,7 +823,7 @@ namespace Founder.HisService
         {
             try
             {
-                string sql = "sp_lisgetoutpfee";
+                string sql = "RM_lis_getoutpfee";
                 SqlParameter[] sqlParameter = new SqlParameter[]
                 {
                     new SqlParameter("@p_bar", SqlDbType.VarChar, 20), //病历号                
@@ -949,7 +949,7 @@ namespace Founder.HisService
         {
             try
             {
-                string sql = "sp_lischarge";
+                string sql = "RM_lis_charge";
                 SqlParameter[] sqlParameter = new SqlParameter[]
                 {
                     new SqlParameter("@pattype", SqlDbType.VarChar, 2), //病人来源(1 门诊，2急诊，3 住院，4 体检)                

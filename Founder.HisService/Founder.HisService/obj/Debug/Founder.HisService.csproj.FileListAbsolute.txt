@@ -13,3 +13,12 @@ E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Fo
 E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.csproj.CoreCompileInputs.cache
 E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.dll
 E:\源码\Webservice源码\六合检查、检验Webservice\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.pdb
+F:\GitHub\liuhe-hospital\Founder.HisService\Founder.HisService\bin\Founder.HisService.dll.config
+F:\GitHub\liuhe-hospital\Founder.HisService\Founder.HisService\bin\Founder.HisService.dll
+F:\GitHub\liuhe-hospital\Founder.HisService\Founder.HisService\bin\Founder.HisService.pdb
+F:\GitHub\liuhe-hospital\Founder.HisService\Founder.HisService\bin\log4net.dll
+F:\GitHub\liuhe-hospital\Founder.HisService\Founder.HisService\bin\log4net.xml
+F:\GitHub\liuhe-hospital\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.csprojResolveAssemblyReference.cache
+F:\GitHub\liuhe-hospital\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.csproj.CoreCompileInputs.cache
+F:\GitHub\liuhe-hospital\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.dll
+F:\GitHub\liuhe-hospital\Founder.HisService\Founder.HisService\obj\Debug\Founder.HisService.pdb
